@@ -3,7 +3,7 @@
     padding: 0;
 }
 body {
-    background-image: url(cafee.jpg);
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 0.501)50%,rgba(0,0,0,0.5)50%),url(cafee.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
