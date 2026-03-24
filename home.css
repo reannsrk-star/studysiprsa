@@ -5,7 +5,7 @@
 
 .main{
     width: 100%;
-    background: linear-gradient(to top, rgba(0, 0, 0, 0.501)50%,rgba(0,0,0,0.5)50%),url(Pictures/cafee.jpg);
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.501)50%,rgba(0,0,0,0.5)50%),url(cafee.jpg);
     background-position: center;
     background-size: cover;
     height: 101vh;
